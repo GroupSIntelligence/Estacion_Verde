@@ -5,7 +5,7 @@ La estación a escala cuenta con 4 sensores diferentes, y 2 de estos adicionalme
 
 Para más detalle revisar el manual de usuario del proyecto (escanear QR para descargar el manual):
 
-![Manual de Usuario](<img src="./Imagenes/manual-de-usuario.png" alt="Manual de Usuario" width="300" height="200">)
+![Manual de Usuario](./Imagenes/manual-de-usuario.png)
 
 ### Índice
 
@@ -55,15 +55,15 @@ Se deberá importar al proyecto las siguientes librerías:
 
 Para ver el código implementado en Arduino UNO revisar:
 
-![Arduino](./Código de arduino/Arduino/Arduino.ino)
+- [Arduino](./Código de arduino/Arduino/Arduino.ino)
 
 Para ver el código implementado Módulo WiFi ESP 01 revisar:
 
-![ESP8266](./Código de arduino/ESP8266/ESP8266.ino)
+- [ESP8266](./Código de arduino/ESP8266/ESP8266.ino)
 
 Para ver la asignación de red de internet y certificados revisar el archivo secrets.h:
 
-![Secrets](./Código de arduino/ESP8266/secrets.h)
+- [Secrets](./Código de arduino/ESP8266/secrets.h)
 
 Revisar el manual técnico del proyecto para más detalles (escanear QR para descargar el manual):
 
@@ -133,22 +133,22 @@ Para más detalle revisar el manual técnico del proyecto (escanear QR para desc
 
 - Código de Arduino: 
 
-![Arduino](./Código de arduino/Arduino/Arduino.ino)
+[Arduino](./Código de arduino/Arduino/Arduino.ino)
 
 -Código del Módulo WiFi ESP 01:
 
-![ESP8266](./Código de arduino/ESP8266/ESP8266.ino)
+[ESP8266](./Código de arduino/ESP8266/ESP8266.ino)
 
 -Asignación de red de internet y certificados:
 
-![Secrets](./Código de arduino/ESP8266/secrets.h)
+[Secrets](./Código de arduino/ESP8266/secrets.h)
 
--Manual Técnico (escanear QR para descargar el manual):
+-Manual Técnico:
 
-![Manual Técnico](./Imagenes/manual-tecnico.png)
+[Manual Técnico](./Manual técnico.pdf)
 
--Manual de Usuario (escanear QR para descargar el manual):
+-Manual de Usuario:
 
-![Manual de Usuario](./Imagenes/manual-de-usuario.png)
+![Manual de Usuario](./Manual de usuario estación verde.pdf)
 
 ...
