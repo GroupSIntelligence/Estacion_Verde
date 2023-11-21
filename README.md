@@ -6,7 +6,7 @@ La estación a escala cuenta con 4 sensores diferentes, y 2 de estos adicionalme
 Para más detalle revisar el manual de usuario del proyecto (escanear QR para descargar el manual):
 
 <p align="center">
-  <img src="./Imagenes/manual-de-usuario.png" alt="Manual de Usuario" width="300" height="200">
+  <img src="./Imagenes/manual-de-usuario.png" alt="Manual de Usuario" width="100" height="100">
 </p>
 
 ### Índice
@@ -67,7 +67,10 @@ Para ver la asignación de red de internet y certificados revisar el archivo sec
 
 Revisar el manual técnico del proyecto para más detalles (escanear QR para descargar el manual):
 
-![Manual Técnico](./Imagenes/manual-tecnico.png)
+<p align="center">
+  <img src="./Imagenes/manual-tecnico.png" alt="Manual Técnico" width="100" height="100">
+</p>
+
 ...
 
 ### Configuración de AWS
@@ -110,7 +113,10 @@ Conexión con QuickSight para análisis y diseño del Dashboard:
 
 Para más detalle revisar el manual técnico del proyecto (escanear QR para descargar el manual):
 
-![Manual Técnico](./Imagenes/manual-tecnico.png)
+<p align="center">
+  <img src="./Imagenes/manual-tecnico.png" alt="Manual Técnico" width="100" height="100">
+</p>
+
 ...
 
 ### Instalación y Uso
