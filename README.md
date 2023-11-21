@@ -5,7 +5,9 @@ La estación a escala cuenta con 4 sensores diferentes, y 2 de estos adicionalme
 
 Para más detalle revisar el manual de usuario del proyecto (escanear QR para descargar el manual):
 
-![Manual de Usuario](./Imagenes/manual-de-usuario.png)
+<p align="center">
+  <img src="./Imagenes/manual-de-usuario.png" alt="Manual de Usuario" width="300" height="200">
+</p>
 
 ### Índice
 
@@ -16,8 +18,6 @@ Para más detalle revisar el manual de usuario del proyecto (escanear QR para de
 - [Instalación y Uso](#instalación-y-uso)
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Documentación](#documentación)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 
 ### Características
 
@@ -119,6 +119,7 @@ Para más detalle revisar el manual técnico del proyecto (escanear QR para desc
 - Configura tu cuenta de AWS según las instrucciones de Configuración de AWS
 - Ejecuta el código en tu Arduino UNO según los archivos mencionados en Configuración del Hardware
 - Accede a QuickSight para visualizar el dashboard
+
 ...
 
 ### Estructura del Proyecto
