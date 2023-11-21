@@ -5,7 +5,7 @@ La estación a escala cuenta con 4 sensores diferentes, y 2 de estos adicionalme
 
 Para más detalle revisar el manual de usuario del proyecto (escanear QR para descargar el manual):
 
-![Manual de Usuario](./Imagenes/manual-de-usuario.png)
+![Manual de Usuario](<img src="./Imagenes/manual-de-usuario.png" alt="Manual de Usuario" width="300" height="200">)
 
 ### Índice
 
@@ -132,14 +132,23 @@ Para más detalle revisar el manual técnico del proyecto (escanear QR para desc
 ### Documentación
 
 - Código de Arduino: 
+
 ![Arduino](./Código de arduino/Arduino/Arduino.ino)
+
 -Código del Módulo WiFi ESP 01:
+
 ![ESP8266](./Código de arduino/ESP8266/ESP8266.ino)
+
 -Asignación de red de internet y certificados:
+
 ![Secrets](./Código de arduino/ESP8266/secrets.h)
+
 -Manual Técnico (escanear QR para descargar el manual):
+
 ![Manual Técnico](./Imagenes/manual-tecnico.png)
+
 -Manual de Usuario (escanear QR para descargar el manual):
+
 ![Manual de Usuario](./Imagenes/manual-de-usuario.png)
 
 ...
