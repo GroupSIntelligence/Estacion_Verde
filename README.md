@@ -18,6 +18,7 @@ Para más detalle revisar el manual de usuario del proyecto (escanear QR para de
 - [Instalación y Uso](#instalación-y-uso)
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Documentación](#documentación)
+- [Recomendaciones](#recomendaciones)
 
 ### Características
 
@@ -159,3 +160,18 @@ Para más detalle revisar el manual técnico del proyecto (escanear QR para desc
 [Manual de Usuario](./Manual de usuario estación verde.pdf)
 
 ...
+
+### Recomendaciones
+
+Para la construcción del modelo físico
+1) El tipo de turbina es importante, en el modelo actual se utilizó una turbina VAWT Darrieus helicoidal
+hecha con plancas de PVC de 2 mm; por el tipo de perfil aerodinámico que se busca, la impresión en 3D es ideal.
+
+2) El cómo se acopla la turbina con el dínamo es importante para un modelo proporcional al tamaño de una persona
+por lo que mecánicamente se recomienda un acople similar al de una bicicleta con freno contrapedal.
+
+Para la electrónica
+1) Aunque se utilizó un regulador DC-DC fijo basado en el LM317, un regulador dinámico basado en el "buck converter" sería ideal.
+
+2) Para este proyecto se utilizó un Arduino Uno pero otros microcontroladores de menor consumo energético y capacidad tendrían un aumento en eficiencia. 
+
